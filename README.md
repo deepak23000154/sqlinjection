@@ -2,7 +2,7 @@
 Exploiting SQL Injection vulnerability
 
 # AIM:
-To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
+To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2.
 
 ## DESIGN STEPS:
 
